@@ -1,1 +1,1 @@
-module github.com/AnuchitO/say
+module github.com/AnuchitO/say/v2
